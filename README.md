@@ -69,7 +69,7 @@ Due to the limitations of the [**training set (n=2,148)**](), certain PFAS outsi
 
 We ask users to directly cite the following paper:
 
-J. Xie et al. Elucidating Per- and Polyfluoroalkyl Substances (PFASs) Soil-Water Partitioning Behavior through Explainable Machine Learning Models. Science of The Total Environment **2024** **954**, 176575.
+J. Xie et al. Elucidating Per- and Polyfluoroalkyl Substances (PFASs) Soil-Water Partitioning Behavior through Explainable Machine Learning Models. Science of The Total Environment Volume 954, **2024**, 176575.
 
 This project also builds on a number of other projects, algorithms and ideas. Please consider citing the following full list of papers when relevant:
 
