@@ -73,7 +73,7 @@ J. Xie et al. Elucidating Per- and Polyfluoroalkyl Substances (PFASs) Soil-Water
 
 This project also builds on a number of other projects, algorithms and ideas. Please consider citing the following full list of papers when relevant:
 
-1. Lei, X. et al. Development, Evaluation, and Application of Machine Learning Models for Accurate Prediction of Root Uptake of Per- and Polyfluoroalkyl Substances. Environmental Science & Technology **2023 ***57* (46), 18317-18328.
+1. Lei, X. et al. Development, Evaluation, and Application of Machine Learning Models for Accurate Prediction of Root Uptake of Per- and Polyfluoroalkyl Substances. Environmental Science & Technology **2023** **57** (46), 18317-18328.
 2. Yang, C. et al. New insights on the formation of nucleation mode particles in a coastal city based on a machine learning approach. Environmental Science & Technology **2024** *58* (2), 1187-1198.
 3. Gao, F. et al. Direct prediction of bioaccumulation of organic contaminants in plant roots from soils with machine learning models based on molecular structures. Environmental Science & Technology **2021** *55* (24), 16358-16368.
 4. Tengyi, Z. et al. Contribution of molecular structures and quantum chemistry technique to root concentration factor: An innovative application of interpretable machine learning. Journal of Hazardous Materials, Volume 459, **2023,** 132320.
