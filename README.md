@@ -1,5 +1,7 @@
 # **Elucidating Per- and Polyfluoroalkyl Substances (PFASs) Soil-Water Partitioning Behavior through Explainable Machine  Learning Models**
 
+<img src="https://img.shields.io/badge/DOI-10.1016/j.scitotenv.2024.176575-blue" alt="DOI" title="https://doi.org/10.1016/j.scitotenv.2024.176575">
+
 <p align="left">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style&logo=Jupyter&logoColor=white" alt="Jupyter" />
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style&logo=Python&logoColor=white" alt="Python" />
@@ -67,7 +69,7 @@ Due to the limitations of the [**training set (n=2,148)**](), certain PFAS outsi
 
 We ask users to directly cite the following paper:
 
-J. X. Xie et al. Elucidating Per- and Polyfluoroalkyl Substances (PFASs) Soil-Water Partitioning Behavior through Explainable Machine Learning Models.
+J. Xie et al. Elucidating Per- and Polyfluoroalkyl Substances (PFASs) Soil-Water Partitioning Behavior through Explainable Machine Learning Models. Science of The Total Environment **2024** **954**, 176575.
 
 This project also builds on a number of other projects, algorithms and ideas. Please consider citing the following full list of papers when relevant:
 
